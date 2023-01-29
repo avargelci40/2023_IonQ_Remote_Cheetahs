@@ -1,6 +1,9 @@
 # 2023_planning_ionq
 IonQ's repository for iQuHACK 2023 (private planning)
 
+Lana Jha
+Arielle Nudelman
+Alp Vargelci
 
 ## Working on qBraid
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/iQuHACK/2023_planning_ionq.git)
